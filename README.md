@@ -6,14 +6,11 @@ Implementation of geofencing can be useful in various cases, You can define geof
 In this geofencing tutorial, you will learn how to use region monitoring in iOS with Swift 5.0 – using the Region Monitoring API in Core Location.
 
 ## Example 
-[![Everything Is AWESOME](https://i.sstatic.net/q3ceS.png)](https://youtu.be/iCPoqDhJh6c "Everything Is AWESOME")
-
-
-https://youtu.be/iCPoqDhJh6c
+[![Everything Is AWESOME](https://i3.ytimg.com/vi/iCPoqDhJh6c/maxresdefault.jpg)](https://youtu.be/iCPoqDhJh6c "Everything Is AWESOME")
 
 ## Contribute
 
-We would love you for the contribution to **RDOTP**.
+We would love you for the contribution to **Geofence-iOS-Demo**.
 ## Author
 
 rdc2394@gmail.com
